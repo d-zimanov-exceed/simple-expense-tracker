@@ -11,13 +11,8 @@ import ExpenseTracker from './components/ExpenseTracker';
 
 export default {
   name: 'App',
-
   components: {
     ExpenseTracker,
-  },
-
-  data: () => ({
-    //
-  }),
+  }
 };
 </script>

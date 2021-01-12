@@ -1,4 +1,4 @@
-# expense-tracker
+# Basic expense tracker app
 
 ## Project setup
 ```
